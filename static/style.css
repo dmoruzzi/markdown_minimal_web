@@ -1,0 +1,21 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.last-modified {
+  font-size: 0.9em;
+  color: #6c757d;
+}
+.prose h1 {
+  font-size: 2em;
+}
+.content h1.title {
+  font-size: 2em;
+}
+.prose {
+  max-width: 90%; /* Override the max-width */
+}
+.search-input {
+    color: black;
+    border: 1px solid black;
+
+}
